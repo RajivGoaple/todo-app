@@ -1,0 +1,6 @@
+bin/
+TodoApp/bin/
+obj/
+*.user
+*.suo
+.vs/
